@@ -1,0 +1,120 @@
+- model: veggy_pi.rpipin
+  pk: 1
+  fields: {pin: 1, label: GND}
+- model: veggy_pi.rpipin
+  pk: 2
+  fields: {pin: 2, label: GPIO02}
+- model: veggy_pi.rpipin
+  pk: 3
+  fields: {pin: 3, label: GPIO03}
+- model: veggy_pi.rpipin
+  pk: 4
+  fields: {pin: 4, label: GPIO04}
+- model: veggy_pi.rpipin
+  pk: 5
+  fields: {pin: 5, label: GND}
+- model: veggy_pi.rpipin
+  pk: 6
+  fields: {pin: 6, label: GPIO17}
+- model: veggy_pi.rpipin
+  pk: 7
+  fields: {pin: 7, label: GPIO27}
+- model: veggy_pi.rpipin
+  pk: 8
+  fields: {pin: 8, label: GPIO22}
+- model: veggy_pi.rpipin
+  pk: 9
+  fields: {pin: 9, label: 3.3V}
+- model: veggy_pi.rpipin
+  pk: 10
+  fields: {pin: 10, label: GPIO10}
+- model: veggy_pi.rpipin
+  pk: 11
+  fields: {pin: 11, label: GPIO09}
+- model: veggy_pi.rpipin
+  pk: 12
+  fields: {pin: 12, label: GPIO11}
+- model: veggy_pi.rpipin
+  pk: 13
+  fields: {pin: 13, label: GND}
+- model: veggy_pi.rpipin
+  pk: 14
+  fields: {pin: 14, label: DNC}
+- model: veggy_pi.rpipin
+  pk: 15
+  fields: {pin: 15, label: GPIO05}
+- model: veggy_pi.rpipin
+  pk: 16
+  fields: {pin: 16, label: GPIO06}
+- model: veggy_pi.rpipin
+  pk: 17
+  fields: {pin: 17, label: GPIO13}
+- model: veggy_pi.rpipin
+  pk: 18
+  fields: {pin: 18, label: GPIO19}
+- model: veggy_pi.rpipin
+  pk: 19
+  fields: {pin: 19, label: GPIO26}
+- model: veggy_pi.rpipin
+  pk: 20
+  fields: {pin: 20, label: GND}
+- model: veggy_pi.rpipin
+  pk: 21
+  fields: {pin: 21, label: GPIO21}
+- model: veggy_pi.rpipin
+  pk: 22
+  fields: {pin: 22, label: GPIO20}
+- model: veggy_pi.rpipin
+  pk: 23
+  fields: {pin: 23, label: GPIO16}
+- model: veggy_pi.rpipin
+  pk: 24
+  fields: {pin: 24, label: GND}
+- model: veggy_pi.rpipin
+  pk: 25
+  fields: {pin: 25, label: GPIO12}
+- model: veggy_pi.rpipin
+  pk: 26
+  fields: {pin: 26, label: GND}
+- model: veggy_pi.rpipin
+  pk: 27
+  fields: {pin: 27, label: DNC}
+- model: veggy_pi.rpipin
+  pk: 28
+  fields: {pin: 28, label: GPIO07}
+- model: veggy_pi.rpipin
+  pk: 29
+  fields: {pin: 29, label: GPIO08}
+- model: veggy_pi.rpipin
+  pk: 30
+  fields: {pin: 30, label: GPIO25}
+- model: veggy_pi.rpipin
+  pk: 31
+  fields: {pin: 31, label: GND}
+- model: veggy_pi.rpipin
+  pk: 32
+  fields: {pin: 32, label: GPIO24}
+- model: veggy_pi.rpipin
+  pk: 33
+  fields: {pin: 33, label: GPIO23}
+- model: veggy_pi.rpipin
+  pk: 34
+  fields: {pin: 34, label: GND}
+- model: veggy_pi.rpipin
+  pk: 35
+  fields: {pin: 35, label: GPIO18}
+- model: veggy_pi.rpipin
+  pk: 36
+  fields: {pin: 36, label: GPIO15}
+- model: veggy_pi.rpipin
+  pk: 37
+  fields: {pin: 37, label: GPIO14}
+- model: veggy_pi.rpipin
+  pk: 38
+  fields: {pin: 38, label: GND}
+- model: veggy_pi.rpipin
+  pk: 39
+  fields: {pin: 39, label: 5V}
+- model: veggy_pi.rpipin
+  pk: 40
+  fields: {pin: 40, label: 5V}
