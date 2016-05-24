@@ -62,8 +62,8 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-			'/home/tinytox/pi/www/templates/',
-		],
+            '/home/tinytox/pi/www/templates/',
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -112,7 +112,7 @@ STATIC_URL = '/static/'
 # LOGIN_URL = '/uno/login/'
 
 # FIXTURE_DIRS = (
-#	'/home/tinytox/opendec/www/support/fixtures/',
+#    '/home/tinytox/opendec/www/support/fixtures/',
 #)
 
 DEFAULT_FROM_EMAIL='dev@hacklabs.com'
