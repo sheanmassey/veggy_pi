@@ -39,9 +39,10 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'djcelery',
+    #
     'django_extensions',
     'rest_framework',
+    #
     'veggy_pi',
 )
 
