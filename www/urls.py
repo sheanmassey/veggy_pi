@@ -20,10 +20,10 @@ from veggy_pi import urls
 
 from rest_framework.authtoken.views import obtain_auth_token
 
-from veggy_pi.urls import veggy_pi_router
+# from veggy_pi.urls import veggy_pi_router
 
 urlpatterns = [
-    url(r'^api/v1/token', obtain_auth_token, name=u'api-token'),
-    url(r'^veggy_pi/api/v1/', include(veggy_pi_router.urls)),
+    # url(r'^api/v1/token', obtain_auth_token, name=u'api-token'),
+    # url(r'^veggy_pi/api/v1/', include(veggy_pi_router.urls)),
     url(r'^admin/', include(admin.site.urls)),
 ]
